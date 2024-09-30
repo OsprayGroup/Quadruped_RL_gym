@@ -10,7 +10,6 @@ This project focuses on training the Ant-v4 quadruped environment in MuJoCo usin
 
 ## System Specifications
 
-- **Operating System**: Linux-5.13.0-44-generic-x86_64-with-debian-bullseye-sid #49~20.04.1-Ubuntu SMP Wed May 18 18:44:28 UTC 2022
 - **Python Version**: 3.7.10
 - **Stable-Baselines3 Version**: 1.5.1a8
 - **PyTorch Version**: 1.11.0
@@ -26,5 +25,8 @@ Below is a sample of the training results visualized in the form of GIFs:
 
 ### Training Progress (Ant-v4)
 
-![Training Result GIF](path_to_your_gif.gif)
+<video width="600" controls>
+  <source src="/sample_video/Training_Ant.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
