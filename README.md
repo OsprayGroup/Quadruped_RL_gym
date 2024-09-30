@@ -21,12 +21,5 @@ The repository includes the training scripts, model definitions, and environment
 
 ## Results
 
-Below is a sample of the training results visualized in the form of GIFs:
-
 ### Training Progress (Ant-v4)
-
-<video width="600" controls>
-  <source src="/sample_video/Training_Ant.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+ <img src="./sample_video/Training_Ant_gif.gif" alt="ant" width="800" />
